@@ -1,0 +1,23 @@
+Run both files as - 
+
+javac First.java
+java First
+
+/*
+	Please enter two integers to add:
+	2
+	3
+	Sum of two numbers 2 and 3 is: 5
+	Class variable is: 10
+*/
+
+javac Test.java
+java Test
+
+/*
+	Calling for Test class's object-(Own Object)
+	You are in original class
+	You are inside method
+	Calling for Demo class's object-(Different Object)
+	You are in dummy class
+*/
